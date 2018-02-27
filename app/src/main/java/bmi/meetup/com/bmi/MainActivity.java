@@ -54,13 +54,5 @@ public class MainActivity extends AppCompatActivity {
 
 
         });
-
-/*
-        Intent intent = new Intent(this, ResultActivity.class);
-        Bundle data = new Bundle();
-        data.putFloat("bmi",bmi);
-        intent.putExtras(data);
-        startActivity(intent);
-*/
     }
 }

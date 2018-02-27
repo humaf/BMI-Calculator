@@ -22,6 +22,7 @@
         android:id="@+id/category"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
+        android:textSize="30sp"
         android:background="@color/colorAccent"
         />
 
