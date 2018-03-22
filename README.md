@@ -10,6 +10,8 @@ By building this app the attendess learnt fundamentals of Android development li
 
 * Intents
 
+* Extras
+
 ## Features
   * Calculates BMI based on height and weight
   
