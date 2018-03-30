@@ -1,6 +1,16 @@
 # BMI Calculator
 This is the application I created for Women Who Code Android Beginners Meetup for calulating the **BMI** of a person given the height and weight.
 
+### WEEKLY TASKS
+
+* WEEK 1 :Creating a new project in the android studio and also setting up android studio.
+
+* WEEK 2: Work on creating the user interface of the app.
+
+* WEEK 3: Work onClick Listeners and intents.
+
+### Lesson's Learned
+
 By building this app the attendess learnt fundamentals of Android development like
 
 * Activities.
