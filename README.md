@@ -23,6 +23,12 @@ By building this app the attendess learnt fundamentals of Android development li
 
 * Extras.
 
+## WOMEN WHO CODE
+
+![womenwhocode](https://user-images.githubusercontent.com/16161998/38155880-134a3e62-342f-11e8-93cf-4367ad567954.jpeg)
+
+
+
 ## Features
   * Calculates BMI based on height and weight.
   
