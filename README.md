@@ -1,5 +1,5 @@
 # BMI Calculator
-This is the application I created for Women Who Code Android Beginners Meetup for calulating the **BMI** of a person given the height and weight.
+I created this app for Women Who Code Android Beginners Meetup for calulating the **BMI** of a person given the height in inches  and weight in pounds.This app also tells the users if they are underweight,normal,overweight or obese.
 
 ### Weekly Tasks
 
